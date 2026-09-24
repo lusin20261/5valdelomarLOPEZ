@@ -1,0 +1,5 @@
+1.traer mi tabla de elmentos quimicos
+2.respirar
+3.dormir
+4.despertar
+5.copiar la clase mas rapido
